@@ -1,4 +1,7 @@
 # NFT_Project [Ugly Food]
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ade047d6-c503-4c6a-a25b-a14fb22881f0/Untitled.png">
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42c7b1d5-9387-4679-94a8-5769e3e9ed68/Untitled.png">
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3beaf084-fd19-464c-9238-e08aacda97b0/Untitled.png">
+## 캐릭터 디자인, NFT제작 및 발행, openSea 마켓 업로딩까지를 담당했어요 
+
+
+![image](https://github.com/hyeonheebee/NFT_TEST/assets/97822063/20461075-3614-4955-9dde-ab6cfddb2611)
+![image](https://github.com/hyeonheebee/NFT_TEST/assets/97822063/22f532a1-3468-4deb-bb81-b9f650c1cce7)
+![image](https://github.com/hyeonheebee/NFT_TEST/assets/97822063/47926e55-ce4d-4cd5-919b-b51ceafc688f)
